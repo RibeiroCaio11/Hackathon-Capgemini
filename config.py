@@ -17,7 +17,7 @@ class Config:
         os.environ["TELEGRAM_CHAT_ID"] = "7111234268"
         os.environ["DISCORD_WEBHOOK"] = "https://discord.com/api/webhooks/1353428276168753354/Y7rRG42HsMDBlB59LV4hX8j3v_k2kOfH6a2ZToqpV7bSoSH79Bhv_RcV2hUrf2Y_SSrH"
         # Usando a chave de API fornecida pelo usuário
-        os.environ["OPENAI_API_KEY"] = "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"
+        os.environ["OPENAI_API_KEY"] 
     
     def _load_api_keys(self):
         """Carrega as chaves de API das variáveis de ambiente"""
